@@ -1,0 +1,9 @@
+{
+  "weatherApi": {
+    "apiKey": "YOUR-KEY-HERE"
+  },
+  "stApi": {
+    "apiUrl": "https://api.smartthings.com/v1",
+    "verifyRequests": false
+  }
+}
